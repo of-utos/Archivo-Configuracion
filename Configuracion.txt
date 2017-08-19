@@ -1,0 +1,6 @@
+[General]
+EnviarMail=false
+
+[Direccion]
+DirLog=C:\Users\...
+DirMails=C:\Users\...
